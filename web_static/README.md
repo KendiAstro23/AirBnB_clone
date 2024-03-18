@@ -1,1 +1,1 @@
-Image and wb directory
+Web static directory
